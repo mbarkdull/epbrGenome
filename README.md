@@ -1,1 +1,1 @@
-# epbrGenomeA line I wrote on my local computer  
+# Genome assembly for **Ephyriades brunnea**
